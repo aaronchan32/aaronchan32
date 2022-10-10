@@ -63,7 +63,7 @@ Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 
 
 **Fullstack Web Developer** \
-[**Univitity**](https://www.ibm.com/employment/accelerate/) • Personal Project \
+[**Unitivity**](https://www.ibm.com/employment/accelerate/) • Personal Project \
 Languages & Technologies: `React`, `Nextjs`, `Sass`, `PostgreSQL`, `Prisma`, `Amazon S3`, `Github`\
 <br/>
 
