@@ -53,7 +53,7 @@ Languages & Technologies: `Python`, `Flask`, `HTML`, `CSS`, `Javascript`, `Boots
 <a href="https://alan.app/"><img style="margin-right:10px" align="left" src="https://avatars.githubusercontent.com/u/54960780?s=200&v=4" width="80" height="80"></a>
 
 **Software Developer Intern** \
-[**Cognixion**](https://alan.app//) • Internship \
+[**Alan AI**](https://alan.app//) • Internship \
 Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 <br/>
 
