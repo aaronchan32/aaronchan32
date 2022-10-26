@@ -43,7 +43,7 @@
 Languages & Technologies: `Python`, `SQL`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit`, `Github` \
 <br/>
 
-<a href="https://www.cognixion.com/"><img style="margin-right:10px" align="left" src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/309949881_1074947306686308_6086698160359653988_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4A09-k28EY8AX_vN3Dz&_nc_ht=scontent-lax3-1.xx&oh=00_AT-lGm_dKs-xVoc0m-jgMWlNVF0I992Jw0HmLZWyzbKy3Q&oe=634822B9" width="80" height="80"></a>
+<a href="https://www.cognixion.com/"><img style="margin-right:10px" align="left" src="cognixion_logo.png" width="80" height="80"></a>
 
 **Software Developer Intern** \
 [**Cognixion**](https://www.cognixion.com/) • Internship \
@@ -59,7 +59,7 @@ Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 
 <h2 align="left">Personal Projects🧇:</h2>
 
-<img style="margin-right:10px" align="left" width="80" height="80" src="https://raw.githubusercontent.com/aaronchan32/aaronchan32/79a8000eadce3bf53b1a59aff4f1710de6ed4af7/unitivity_logo.svg">
+<img style="margin-right:10px" align="left" width="80" height="80" src="unitivity_logo.svg">
 
 
 **Fullstack Web Developer** \
