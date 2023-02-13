@@ -59,16 +59,16 @@ Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 
 <h2 align="left">Personal Projects🧇:</h2>
 
-<img style="margin-right:10px" align="left" width="80" height="80" src="unitivity_logo.svg">
+<a href="https://www.aaron-chan.dev/unitivity"><img style="margin-right:10px" align="left" width="80" height="80" src="unitivity_logo.svg"></a>
 
 
 **Fullstack Web Developer** \
-[**Unitivity**](https://www.ibm.com/employment/accelerate/) • Personal Project \
+[**Unitivity**](https://www.aaron-chan.dev/unitivity) • Personal Project \
 Languages & Technologies: `React`, `Nextjs`, `Sass`, `PostgreSQL`, `Prisma`, `Amazon S3`, `Github`\
 <br/>
 
 
-<a href="https://www.ibm.com/employment/accelerate/"><img style="margin-right:10px" align="left" src="https://ustvstaticcdn2-a.akamaihd.net/i/channel/picture/2/4/0/9/24094421/24094421,640x360,b:2.jpg" width="80" height="80"></a>
+<a href="https://www.ibm.com/employment/accelerate/"><img style="margin-right:10px" align="left" width="80" height="80" src="ibm_logo.svg"></a>
 
 **Software Developer Intern** \
 [**IBM Accelerate**](https://www.ibm.com/employment/accelerate/) • Fellowship \
