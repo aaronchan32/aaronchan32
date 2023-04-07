@@ -59,9 +59,13 @@ Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 
 <h2 align="left">Personal Projects🧇:</h2>
 
+<a href="https://www.aaron-chan.dev"><img style="margin-right:10px" align="left" width="80" height="80" src="portfolio_logo.svg"></a>
+**Frontend Developer** \
+[**Portfolio**](https://www.aaron-chan.dev/) • Personal Project \
+Languages & Technologies: `Astro`, `React`, `HTML`, `CSS`, `Javascript`, `React Three Fiber (ThreeJS)`\
+<br/>
+
 <a href="https://www.aaron-chan.dev/unitivity"><img style="margin-right:10px" align="left" width="80" height="80" src="unitivity_logo.svg"></a>
-
-
 **Fullstack Web Developer** \
 [**Unitivity**](https://www.aaron-chan.dev/unitivity) • Personal Project \
 Languages & Technologies: `React`, `Nextjs`, `Sass`, `PostgreSQL`, `Prisma`, `Amazon S3`, `Github`\
@@ -69,7 +73,6 @@ Languages & Technologies: `React`, `Nextjs`, `Sass`, `PostgreSQL`, `Prisma`, `Am
 
 
 <a href="https://www.ibm.com/employment/accelerate/"><img style="margin-right:10px" align="left" width="80" height="80" src="ibm_logo.svg"></a>
-
 **Software Developer Intern** \
 [**IBM Accelerate**](https://www.ibm.com/employment/accelerate/) • Fellowship \
 Languages & Technologies: `Javascript`, `React`, `Express`, `Material UI`, `React Testing`, `Github`\
