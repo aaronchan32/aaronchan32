@@ -34,8 +34,15 @@
 </div>
 
 <br>
-
 <h2 align="left">Work Experience⚙️:</h2>
+
+<a href="https://www.caida.org/"><img style="margin-right:10px" align="left" src="https://www.caida.org/images/caida.png" width="80" height="80"></a>
+
+**Frontend Developer Intern** \
+[**Center for Applied Internet Data Analysis**](https://www.caida.org/) • Internship \
+Languages & Technologies: `React`, `GraphQL`, `HTML`, `SASS`, `Javascript`, `PHP` \
+<br/>
+
 <a href="https://www.hackthehood.org/"><img style="margin-right:10px" align="left" src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/506ff112-7afc-458c-892d-746dc41d8230/FaviCon.png" width="80" height="80"></a>
 
 **Data Science Instructor Aide** \
