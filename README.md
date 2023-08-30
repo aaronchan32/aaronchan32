@@ -11,8 +11,9 @@
 <h2 align="left">Languages and Tools🪛:</h3>
 
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -36,6 +37,13 @@
 <br>
 <h2 align="left">Work Experience⚙️:</h2>
 
+<a href="https://designlab.ucsd.edu/"><img style="margin-right:10px" align="left" src="https://designlab.ucsd.edu/wp-content/uploads/2023/01/The-Design-Lab-Logo-Blue.png" width="80" height="80"></a>
+
+**Software Developer Research Intern** \
+[**UCSD Design Lab**](https://designlab.ucsd.edu/) • Internship \
+Languages & Technologies: `Typescript`, `React`, `Langchain`, `OpenAI API`, `Flask`, `Python`, `Firebase` \
+<br/>
+
 <a href="https://www.caida.org/"><img style="margin-right:10px" align="left" src="https://www.caida.org/images/caida.png" width="80" height="80"></a>
 
 **Frontend Developer Intern** \
@@ -48,6 +56,12 @@ Languages & Technologies: `React`, `GraphQL`, `HTML`, `SASS`, `Javascript`, `PHP
 **Data Science Instructor Aide** \
 [**Hack the Hood**](https://www.hackthehood.org/) • Part-Time \
 Languages & Technologies: `Python`, `SQL`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit`, `Github` \
+<br/>
+
+<a href="https://www.ibm.com/employment/accelerate/"><img style="margin-right:10px" align="left" width="80" height="80" src="ibm_logo.svg"></a>
+**Software Developer Intern** \
+[**IBM Accelerate**](https://www.ibm.com/employment/accelerate/) • Fellowship \
+Languages & Technologies: `Javascript`, `React`, `Express`, `Material UI`, `React Testing`, `Github`\
 <br/>
 
 <a href="https://www.cognixion.com/"><img style="margin-right:10px" align="left" src="cognixion_logo.png" width="80" height="80"></a>
@@ -64,6 +78,21 @@ Languages & Technologies: `Python`, `Flask`, `HTML`, `CSS`, `Javascript`, `Boots
 Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 <br/>
 
+<h2 align="left">Clubs🧇:</h2>
+
+<a href="https://aaron-chan.dev/designco"><img style="margin-right:10px" align="left" width="80" height="80" src="dco.jpg"></a>
+**Web Developer** \
+[**UCSD Design Co**](https://ucsddesign.co/) • Club \
+Languages & Technologies: `React`, `Javascript`, `Sass`, `Responsive Web Design`\
+<br/>
+
+<a href="https://aaron-chan.dev/callblackline"><img style="margin-right:10px" align="left" width="80" height="80" src="triton_software_engineering.png"></a>
+**Software Developer** \
+[**Triton Software Engineering**](https://tse.ucsd.edu/) • Club \
+Languages & Technologies: `Flutter`, `Dart`, `Firebase`, `Responsive Design`\
+<br/>
+
+
 <h2 align="left">Personal Projects🧇:</h2>
 
 <a href="https://www.aaron-chan.dev"><img style="margin-right:10px" align="left" width="80" height="80" src="portfolio_logo.svg"></a>
@@ -79,11 +108,6 @@ Languages & Technologies: `React`, `Nextjs`, `Sass`, `PostgreSQL`, `Prisma`, `Am
 <br/>
 
 
-<a href="https://www.ibm.com/employment/accelerate/"><img style="margin-right:10px" align="left" width="80" height="80" src="ibm_logo.svg"></a>
-**Software Developer Intern** \
-[**IBM Accelerate**](https://www.ibm.com/employment/accelerate/) • Fellowship \
-Languages & Technologies: `Javascript`, `React`, `Express`, `Material UI`, `React Testing`, `Github`\
-<br/>
 
 
 
