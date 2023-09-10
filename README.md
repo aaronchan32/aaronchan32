@@ -78,7 +78,7 @@ Languages & Technologies: `Python`, `Flask`, `HTML`, `CSS`, `Javascript`, `Boots
 Languages & Technologies: `Flutter`, `Dart`, `Javascript`, `Firebase`\
 <br/>
 
-<h2 align="left">Clubs🧇:</h2>
+<h2 align="left">Clubs✨:</h2>
 
 <a href="https://aaron-chan.dev/designco"><img style="margin-right:10px" align="left" width="80" height="80" src="dco.jpg"></a>
 **Web Developer** \
