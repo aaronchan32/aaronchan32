@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="left">About me🌿:</h2>
-<p align="left">I am a sophomore at UCSD majoring in Computer Science and minoring in Design. I am a passionate fullstack web developer born and raised in Oakland, California. I enjoy cooking, bouldering, binging anime, and 3D modeling in my free time!</p>
+<p align="left">I am a junior at UCSD majoring in Computer Science and minoring in Design. I am a passionate full-stack developer born and raised in Oakland, California. I enjoy cooking, bouldering, binging anime, and 3D modeling in my free time!</p>
 
 <br>
 
